@@ -2,7 +2,6 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np
 
-
 samp_nums = [1000, 3000, 6000, 10000, 30000, 60000]
 max_accuracy=[]
 min_accuracy=[]
